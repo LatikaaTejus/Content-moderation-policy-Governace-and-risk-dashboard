@@ -1,0 +1,21 @@
+Content_ID,Policy_Category,Detection_Method,Moderation_Decision,Review_Time_Minutes,User_Appealed,Appeal_Outcome
+CN-1001,Hate Speech,AI Classifier,Removed,2,Yes,Denied
+CN-1002,Harassment,User Report,Removed,45,No,None
+CN-1003,Misinformation,AI Classifier,Warning Issued,5,Yes,Overturned
+CN-1004,Spam,AI Classifier,Auto-Deleted,1,No,None
+CN-1005,Copyright,Automated Hash,Blocked,1,Yes,Overturned
+CN-1006,Harassment,User Report,Restored,120,Yes,Overturned
+CN-1007,Hate Speech,AI Classifier,Removed,3,No,None
+CN-1008,Misinformation,User Report,Warning Issued,60,Yes,Denied
+CN-1009,Spam,AI Classifier,Auto-Deleted,1,No,None
+CN-1010,Copyright,Automated Hash,Blocked,1,No,None
+CN-1011,Hate Speech,User Report,Removed,95,Yes,Denied
+CN-1012,Harassment,AI Classifier,Warning Issued,4,Yes,Overturned
+CN-1013,Spam,AI Classifier,Auto-Deleted,1,No,None
+CN-1014,Misinformation,AI Classifier,Removed,8,Yes,Denied
+CN-1015,Copyright,Automated Hash,Blocked,1,No,None
+CN-1016,Hate Speech,AI Classifier,Removed,2,No,None
+CN-1017,Harassment,User Report,Removed,110,Yes,Denied
+CN-1018,Misinformation,User Report,Restored,85,Yes,Overturned
+CN-1019,Spam,AI Classifier,Auto-Deleted,1,No,None
+CN-1020,Copyright,Automated Hash,Blocked,1,Yes,Denied
